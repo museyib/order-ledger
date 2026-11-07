@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spring Boot Health Audit"
+  short_description: "Audit Spring Boot code and fix safe issues"
+  default_prompt: "Use $project-health-audit to audit this Spring Boot, JPA/Hibernate, PostgreSQL, Flyway, Spring Security, and Springdoc repository for consistency, integrity, security, and performance issues, fixing safe problems directly and reporting higher-risk findings with concrete remediation steps."
